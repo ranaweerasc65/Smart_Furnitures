@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Timber Charme Tan Sofa",
+    "price": 1899,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living1.jpg",
+    "featured": true
+  },
+  {
+    "title": "Burrard Seasalt Gray Sofa",
+    "price": 2999,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living2.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Cozy Chair",
+    "price": 899,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living3.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Gray Chair",
+    "price": 899,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living4.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Round Table",
+    "price": 999,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living5.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Vitri Walnut Coffee Table",
+    "price": 599,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living6.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Burrard Seasalt Gray Sofa",
+    "price": 2999,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living7.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Gray Chair",
+    "price": 899,
+    
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "/newarrival-images/living8.jpg",
+    "featured": true
+  }
+
+  
+]

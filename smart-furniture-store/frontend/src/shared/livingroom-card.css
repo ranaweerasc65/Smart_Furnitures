@@ -1,0 +1,106 @@
+.livingroom__img img{
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+
+.card{
+    border: none !important;
+    box-shadow: rgba(0, 0, 0 ,0.2) 0px 18px 50px -10px;
+}
+
+
+
+.livingroom__img{
+    position: relative;
+}
+
+
+
+.livingroom__img span{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: max-content;
+    height: max-content;
+    z-index: 10;
+    background: var(--primary-color);
+    color: #fff;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px 0 0 0;
+
+}
+
+
+
+.card_top span i{
+    color: var(--secondary-color)
+}
+
+
+.livingroom__rating{
+    font-size:0.9rem;
+    color: var(--text-color);
+}
+
+
+
+
+.livingroom__rating i{
+    font-size: 1rem;
+}
+
+
+.livingroom__title{
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+
+}
+
+
+.livingroom__title a{
+    text-decoration: none;
+    color: var(--heading-color);
+    transition: 0.3s;
+}
+
+
+.livingroom__title a:hover{
+    color: var(--secondary-color);
+}
+
+
+.card__bottom h6{
+    color: var(--secondary-color);
+    font-size: 1.1rem;
+    font-weight: 700;
+
+}
+
+
+.card__bottom h6 span{
+    font-weight: 500;
+    color: var(--text-color);
+    font-size: 0.8rem;
+}
+
+
+.buynow__btn{
+    background: var(--secondary-color) !important;
+    cursor: pointer;
+    padding: 0.2rem 0.5rem;
+
+}
+
+.buynow__btn a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    color:#fff;
+
+}
+
+.buynow__btn a:hover{
+    color:#fff;
+}
+

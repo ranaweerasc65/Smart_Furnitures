@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Timber Charme Tan Sofa",
+    "price": 1899,
+    "desc": "this is the description",
+    "reviews": [],
+    "type":"Sofa",
+    "showroom":"Colombo",
+    "color": "Brown",
+    "category" : "Living",
+    "photo": "/livingroom-images/living1.jpg",
+    "featured": true
+
+  },
+  {
+    "title": "Burrard Seasalt Gray Sofa",
+    "price": 2999,
+    "desc": "this is the description",
+    "reviews": [],
+    "type":"Sofa",
+    "category" : "Living",
+    "showroom":"Matara",
+    "color": "Gray",
+    "photo": "/livingroom-images/living2.jpg",
+    "featured": true
+    
+  },
+
+  {
+    "title": "Cozy Chair",
+    "price": 899,
+    "type":"Chair",
+    "showroom":"Kegalle",
+    "category" : "Living",
+    "desc": "this is the description",
+    "reviews": [],
+    "color": "Blue",
+    "photo": "/livingroom-images/living3.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Gray Chair",
+    "price": 899,
+    "type":"Chair",
+    "color": "Gray",
+    "category" : "Living",
+    "desc": "this is the description",
+    "reviews": [],
+    "showroom":"Colombo",
+    "photo": "/livingroom-images/living4.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Round Table",
+    "price": 999,
+    "type":"Table",
+    "category" : "Living",
+    "desc": "this is the description",
+    "reviews": [],
+    "showroom":"Matara",
+    "color": "White",
+    "photo": "/livingroom-images/living5.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Vitri Walnut Coffee Table",
+    "price": 599,
+    "desc": "this is the description",
+    "reviews": [],
+    "color": "Brown",
+    "showroom":"Colombo",
+    "category" : "Living",
+    "type":"Table",
+    "photo": "/livingroom-images/living6.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Burrard Seasalt Gray Sofa Set",
+    "price": 2999,
+    "type":"Sofa",
+    "category" : "Living",
+    "desc": "this is the description",
+    "reviews": [],
+    "showroom":"Kegalle",
+    "color": "Gray",
+    "photo": "/livingroom-images/living7.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Accent Chair",
+    "price": 899,
+    "type":"Chair",
+    "showroom":"Matara",
+    "category" : "Living",
+    "desc": "this is the description",
+    "reviews": [],
+    "color": "Blue",
+    "photo": "/livingroom-images/living3.jpg",
+    "featured": true
+  }
+
+
+]

@@ -1,0 +1,22 @@
+
+
+
+.common__section{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../assets/images/livingroom.jpg") no-repeat center center;
+        background-size: cover;
+        height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align:center;
+
+}
+
+
+
+.common__section h1{
+    font-size:2.5rem;
+    color:#fff;
+}
+
+
